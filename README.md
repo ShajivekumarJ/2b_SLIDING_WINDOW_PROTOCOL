@@ -46,10 +46,14 @@ i += w
 s.close() 
 ~~~
 ## OUTPUT:
+
 SERVER:
 ![alt text](<../server (2).png>)
+
+
 CLINENT:
 ![alt text](../clinent2.png)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
